@@ -2,3 +2,4 @@
 
 * Introducción
 * El grafo de Git
+* Git checkout
